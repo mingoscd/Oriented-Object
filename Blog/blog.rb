@@ -5,15 +5,19 @@ class Blog
 		@posts = []
 	end
 
-	def add_post(title,date,text)
-		@posts << { "title" => title, "date" => date, "text" => text}
+	def add_post(title,date,text, sponsored = false)
+		@posts << { "title" => title, "date" => date, "text" => text, "sponsored" => sponsored}
 	end
 
 	def front_page
 		order_post = @posts.sort_by{ |item| item['date'].to_i }
 
 		order_post.each do |item|
-			puts item["title"]
+			if item['sponsored'] == true
+				print "******** " + item['title'] + " *********\n"
+			else
+				puts item["title"]
+			end
 			puts '****************'
 			puts item["text"]
 			puts '----------------'
@@ -24,6 +28,6 @@ end
 #EXECUTION
 blog = Blog.new
 blog.add_post("titulo 1", DateTime.now.strftime('%s'), "texto 1")
-blog.add_post("titulo 2", DateTime.now.strftime('%s'), "texto 2")
+blog.add_post("titulo 2", DateTime.now.strftime('%s'), "texto 2", true)
 blog.add_post("titulo 3", DateTime.now.strftime('%s'), "texto 3")
 blog.front_page
