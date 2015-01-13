@@ -5,7 +5,7 @@ class Blog
 		@posts = []
 	end
 
-	def add_post(title,date,text, sponsored = false)
+	def add_post(title,date,text, sponsored = false5)
 		@posts << { "title" => title, "date" => date, "text" => text, "sponsored" => sponsored}
 	end
 
