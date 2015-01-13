@@ -1,424 +1,600 @@
-1
-00:01:57,418 --> 00:02:00,419
-Calma, muchacho.
+ï»¿1
+00:01:33,751 --> 00:01:37,751
+Game of Thrones 1x10
+Fire and Blood
+Original Air Date on June 19, 2011
 
 2
-00:03:04,897 --> 00:03:07,066
-¿Y qué esperabas? Son salvajes.
+00:01:37,776 --> 00:01:41,776
+== sync, corrected by elderman ==
 
 3
-00:03:07,010 --> 00:03:09,344
-Basta con que una banda le robe una cabra a otra banda...
+00:02:07,669 --> 00:02:09,937
+Look at me.
+Look at me!
 
 4
-00:03:09,282 --> 00:03:12,284
-y antes de que te des cuenta
-están descuartizándose unos a otros.
+00:02:09,971 --> 00:02:13,140
+Do you remember
+me now, boy, eh?
 
 5
-00:03:12,194 --> 00:03:14,362
-Nunca había visto hacer
-algo así a los salvajes.
+00:02:13,174 --> 00:02:15,909
+Remember me?
+There's a bright boy.
 
 6
-00:03:14,307 --> 00:03:16,607
-En la vida había visto algo como esto.
+00:02:17,011 --> 00:02:19,579
+You'll be coming
+with me, boy,
 
 7
-00:03:16,547 --> 00:03:19,415
-¿Cuánto te acercaste?
+00:02:19,614 --> 00:02:22,615
+and you'll be keeping
+your mouth shut.
 
 8
-00:03:19,331 --> 00:03:22,265
-- Lo más que se acercaría cualquiera.
-- Deberíamos volver al Muro.
+00:02:39,131 --> 00:02:42,067
+- Keep your mouth shut, boy.
+- I'm not a boy!
 
 9
-00:03:24,579 --> 00:03:26,212
-¿Te dan miedo los muertos?
+00:02:42,101 --> 00:02:45,237
+You're not a <i>smart</i> boy,
+is that what you're trying to say?
 
 10
-00:03:26,178 --> 00:03:28,612
-Teníamos orden de seguir el rastro de los salvajes.
+00:02:45,271 --> 00:02:48,007
+Do you want
+to live, boy?!
 
 11
-00:03:28,546 --> 00:03:31,381
-Y lo hemos seguido. No darán más problemas.
+00:02:50,411 --> 00:02:53,013
+North, boy,
+we're going north.
 
 12
-00:03:31,298 --> 00:03:33,966
-¿Y no crees que nos
-preguntará cómo han muerto?
+00:03:25,647 --> 00:03:28,382
+It had three eyes.
 
 13
-00:03:35,714 --> 00:03:37,715
-Sube al caballo.
+00:03:28,417 --> 00:03:31,118
+It told me to come
+with him, so I did.
 
 14
-00:03:42,401 --> 00:03:44,302
-Lo que les haya hecho eso
-puede hacérnoslo a nosotros.
+00:03:31,152 --> 00:03:34,887
+We went down into the crypts
+and my father was there.
 
 15
-00:03:44,258 --> 00:03:46,224
-Han matado hasta a los niños.
+00:03:34,922 --> 00:03:37,757
+Your father's not
+down there, little lord.
 
 16
-00:03:46,177 --> 00:03:49,245
-Buena cosa que no seamos niños.
+00:03:37,791 --> 00:03:40,059
+Not for many years yet.
 
 17
-00:03:50,561 --> 00:03:53,162
-Si quieres huir hacia el sur, huye.
+00:03:41,761 --> 00:03:44,429
+You're afraid--
+just like Hodor.
 
 18
-00:03:53,090 --> 00:03:55,991
-Pero claro, te decapitarán por desertor...
+00:03:44,464 --> 00:03:46,598
+I'm not afraid of some hole
+in the ground.
 
 19
-00:03:55,905 --> 00:03:58,274
-si no te atrapo yo antes.
+00:03:46,633 --> 00:03:49,869
+You've lived beyond the Wall.
+What are you scared of?
 
 20
-00:04:00,354 --> 00:04:02,621
-Vuelve al caballo.
+00:03:49,903 --> 00:03:53,039
+I'm a crippled boy
+and I'm willing to go.
 
 21
-00:04:02,562 --> 00:04:04,530
-No lo repetiré.
+00:03:58,411 --> 00:04:01,179
+That's my grandfather
+Lord Rickard.
 
 22
-00:04:34,720 --> 00:04:37,254
-Parece que tus muertos
-han decidido mudarse.
+00:04:01,214 --> 00:04:04,516
+He was burned alive
+by the Mad King Aerys.
 
 23
-00:04:37,185 --> 00:04:39,718
-Estaban aquí.
+00:04:06,120 --> 00:04:07,954
+That's Lyanna,
+my father's sister.
 
 24
-00:04:42,752 --> 00:04:45,120
-Búscalos, a ver dónde están.
+00:04:07,988 --> 00:04:10,890
+<i>King Robert was</i>
+<i>supposed to marry her,</i>
 
 25
-00:05:28,640 --> 00:05:30,807
-¿Qué es eso?
+00:04:10,925 --> 00:04:13,994
+<i>but Rhaegar Targaryen</i>
+<i>kidnapped her.</i>
 
 26
-00:05:30,752 --> 00:05:33,219
-Es...
+00:04:14,028 --> 00:04:16,496
+<i>Robert started a war</i>
+<i>to win her back.</i>
 
 27
-00:07:05,450 --> 00:07:08,449
-<b>Capítulo 1: "Se acerca el invierno"</b>
+00:04:16,531 --> 00:04:19,700
+<i>He killed Rhaegar,</i>
+<i>but she died anyway.</i>
 
 28
-00:09:25,618 --> 00:09:28,686
-Vamos, Padre te está mirando.
+00:04:21,102 --> 00:04:23,270
+That's where
+I saw father.
 
 29
-00:09:30,515 --> 00:09:32,415
-Y tu madre.
+00:04:24,738 --> 00:04:28,140
+You see?
+He's not here.
 
 30
-00:09:38,100 --> 00:09:41,469
-Buen trabajo, como siempre.
-Bien hecho.
+00:04:36,116 --> 00:04:38,784
+-<i>Here, Shaggydog.</i>
+-Rickon!
 
 31
-00:09:41,364 --> 00:09:43,198
-Gracias.
+00:04:38,819 --> 00:04:40,719
+That beast
 
 32
-00:09:43,156 --> 00:09:47,124
-Me encanta el detalle que has logrado
-introducir en las esquinas.
+00:04:40,754 --> 00:04:43,155
+is supposed to be
+chained in the kennels!
 
 33
-00:09:46,996 --> 00:09:48,929
-Qué preciosidad.
+00:04:43,190 --> 00:04:46,392
+- He doesn't like chains.
+- What are you doing down here?
 
 34
-00:09:48,884 --> 00:09:50,917
-El bordado...
+00:04:46,426 --> 00:04:49,762
+- Come back up with us.
+- No, I came to see father.
 
 35
-00:10:10,996 --> 00:10:13,798
-¿Y quién de ustedes le daba al blanco
-a los 10 años?
+00:04:49,796 --> 00:04:52,431
+How many times have I told you?
+He's in King's Landing
 
 36
-00:10:14,613 --> 00:10:16,179
-Sigue practicando, Bran.
+00:04:52,466 --> 00:04:54,634
+with Sansa and Arya.
 
 37
-00:10:18,101 --> 00:10:20,134
-Vamos.
+00:04:54,668 --> 00:04:57,070
+He was down here.
+I saw him.
 
 38
-00:10:20,085 --> 00:10:22,952
-No pienses mucho, Bran.
+00:04:57,104 --> 00:04:58,838
+Saw him when?
 
 39
-00:10:24,244 --> 00:10:26,310
-Relaja el brazo del arco.
+00:04:58,872 --> 00:05:00,673
+<i>Last night,</i>
 
 40
-00:10:37,554 --> 00:10:40,354
-¡Rápido, Bran!
-¡Corre!
+00:05:00,707 --> 00:05:03,342
+when I was sleeping.
 
 41
-00:10:41,682 --> 00:10:43,749
-¡Lord Stark!
+00:05:03,377 --> 00:05:05,877
+Here, Shaggydog.
 
 42
-00:10:44,658 --> 00:10:46,658
-Mi señora.
+00:05:10,649 --> 00:05:12,750
+You both miss him.
 
 43
-00:10:47,698 --> 00:10:49,731
-Acaba de llegar un centinela
-a caballo desde las colinas.
+00:05:12,784 --> 00:05:15,786
+It's only natural
+he should be in your thoughts
 
 44
-00:10:49,681 --> 00:10:52,681
-Han capturado a un desertor
-de la Guardia Nocturna.
+00:05:15,821 --> 00:05:19,623
+and dreams,
+but that doesn't mean that--
 
 45
-00:10:55,728 --> 00:10:58,097
-Lleva a los chicos a
-ensillar sus caballos.
+00:05:19,658 --> 00:05:22,427
+Bran...
 
 46
-00:10:58,033 --> 00:11:00,066
-¿Es necesario?
+00:05:39,814 --> 00:05:41,915
+- My Lady.
+- My Lady.
 
 47
-00:11:00,016 --> 00:11:02,349
-Hizo un juramento, Cat.
+00:05:41,949 --> 00:05:43,750
+- My Lady.
+- My Lady.
 
 48
-00:11:02,287 --> 00:11:04,254
-La ley es la ley, mi señora.
+00:05:43,784 --> 00:05:46,252
+- My Lady.
+- My Lady.
 
 49
-00:11:05,295 --> 00:11:07,128
-Dile a Bran que él también viene.
+00:05:47,654 --> 00:05:49,388
+My Lady.
 
 50
-00:11:08,782 --> 00:11:10,448
-Ned.
+00:06:37,004 --> 00:06:38,671
+Robb.
 
 51
-00:11:10,414 --> 00:11:12,747
-Diez años no es edad
-para ver esas cosas.
+00:06:40,641 --> 00:06:41,941
+Robb.
 
 52
-00:11:12,685 --> 00:11:14,452
-Algún día dejará de ser niño.
+00:06:45,679 --> 00:06:47,880
+<i>Robb!</i>
 
 53
-00:11:16,204 --> 00:11:18,538
-Y se acerca el invierno.
+00:06:51,618 --> 00:06:54,253
+You've ruined your sword.
 
 54
-00:11:36,077 --> 00:11:39,678
-Corre a buscar al resto, chico.
+00:07:04,331 --> 00:07:06,165
+Shh shh.
 
 55
-00:11:43,918 --> 00:11:45,785
-Caminantes Blancos.
+00:07:06,199 --> 00:07:08,934
+- Shh.
+- I'll kill them all--
 
 56
-00:11:45,741 --> 00:11:48,475
-Vi a los Caminantes Blancos.
+00:07:08,969 --> 00:07:12,471
+--Every one of them.
 
 57
-00:11:48,397 --> 00:11:50,330
-Caminantes Blancos.
+00:07:12,506 --> 00:07:15,741
+I will kill them all.
 
 58
-00:11:50,284 --> 00:11:53,351
-Los Caminantes Blancos, yo los vi.
+00:07:17,711 --> 00:07:20,146
+My boy.
 
 59
-00:12:01,707 --> 00:12:03,541
-Sé que he roto mi juramento.
+00:07:21,815 --> 00:07:24,716
+They have your sisters.
 
 60
-00:12:04,684 --> 00:12:06,517
-Y sé que soy un desertor.
+00:07:24,751 --> 00:07:28,053
+We have to get
+the girls back.
 
 61
-00:12:06,475 --> 00:12:10,177
-Debería haber vuelto al Muro
-a advertirles, pero...
+00:07:30,023 --> 00:07:32,825
+And then we will
+kill them all.
 
 62
-00:12:10,059 --> 00:12:12,227
-Vi lo que vi.
+00:07:38,565 --> 00:07:43,102
+â™ª the boar's great tusks,
+they boded ill â™ª
 
 63
-00:12:12,172 --> 00:12:14,171
-Vi a los Caminantes Blancos.
+00:07:43,137 --> 00:07:46,273
+â™ª for good
+King Robert's health â™ª
 
 64
-00:12:15,819 --> 00:12:17,753
-La gente tiene que saberlo.
+00:07:46,307 --> 00:07:50,510
+â™ª and the beast was
+every bit as fat â™ª
 
 65
-00:12:19,722 --> 00:12:21,590
-Si le envían la noticia a mi familia...
+00:07:50,544 --> 00:07:53,914
+â™ª as Robert was himself â™ª
 
 66
-00:12:21,547 --> 00:12:23,948
-... díganles que no soy un cobarde.
+00:07:53,948 --> 00:07:58,185
+<i>â™ª but our brave King cried,</i>
+<i>"Do your worst!</i>
 
 67
-00:12:23,883 --> 00:12:26,018
-Díganles que lo siento.
+00:07:58,220 --> 00:08:01,556
+<i>â™ª I'll have</i>
+<i>your ugly head! â™ª</i>
 
 68
-00:12:42,058 --> 00:12:43,825
-Perdóname, Señor.
+00:08:01,590 --> 00:08:05,493
+<i>â™ª you're nowhere near</i>
+<i>as murd'rous as â™ª</i>
 
 69
-00:12:47,497 --> 00:12:50,298
-En nombre de Robert de
-la Casa Baratheon,
+00:08:07,129 --> 00:08:10,264
+<i>â™ª the lion in my bed" â™ª</i>
 
 70
-00:12:50,217 --> 00:12:52,118
-- el Primero de su nombre....
-- No apartes la mirada.
+00:08:11,400 --> 00:08:14,369
+â™ª King Robert
+lost his battle and â™ª
 
 71
-00:12:52,073 --> 00:12:53,812
-Rey de los Ándalos y de los
-primeros hombres...
+00:08:14,403 --> 00:08:18,673
+â™ª he failed
+his final test â™ª
 
 72
-00:12:53,742 --> 00:12:54,880
-Si lo haces, Padre se dará cuenta.
+00:08:18,708 --> 00:08:22,545
+â™ª the lion ripped
+his balls off â™ª
 
 73
-00:12:54,857 --> 00:12:58,391
-Señor de los Siete Reinos y
-protector del reino,
+00:08:22,579 --> 00:08:24,714
+<i>â™ª and â™ª</i>
 
 74
-00:12:58,281 --> 00:13:01,015
-Yo, Eddard de la casa Stark,
+00:08:26,317 --> 00:08:29,219
+â™ª the boar
+did all the rest. â™ª
 
 75
-00:13:00,937 --> 00:13:03,805
-Señor de Winterfell
-y Guardián del Norte,
+00:08:43,001 --> 00:08:44,868
+Very amusing.
 
 76
-00:13:03,721 --> 00:13:06,256
-te sentencio a morir.
+00:08:44,903 --> 00:08:47,370
+Isn't it a funny song?
 
 77
-00:13:20,010 --> 00:13:22,476
-Lo hiciste bien.
+00:08:48,572 --> 00:08:50,473
+<i>Thank you</i>
+<i>for your rendition.</i>
 
 78
-00:13:48,455 --> 00:13:50,389
-¿Entiendes por qué lo
-he hecho?
+00:08:50,507 --> 00:08:53,475
+I imagine it was even better
+received at that tavern.
 
 79
-00:13:50,343 --> 00:13:52,310
-Jon dice que era un desertor.
+00:08:53,510 --> 00:08:55,544
+I'm so sorry,
+Your Grace.
 
 80
-00:13:52,262 --> 00:13:54,929
-Pero, ¿entiendes por qué
-he tenido que matarlo yo?
+00:08:55,578 --> 00:08:57,545
+I'll never sing it again,
+I swear.
 
 81
-00:13:54,854 --> 00:13:56,621
-¿Porque guardamos la antigua costumbre?
+00:08:57,580 --> 00:08:59,714
+Tell me,
+which do you favor:
 
 82
-00:13:58,085 --> 00:14:00,053
-El hombre que dicta la sentencia
+00:08:59,748 --> 00:09:02,450
+<i>Your fingers</i>
+<i>or your tongue?</i>
 
 83
-00:14:00,005 --> 00:14:01,738
-debe blandir la espada.
+00:09:02,485 --> 00:09:04,152
+Your Grace?
 
 84
-00:14:02,693 --> 00:14:05,027
-¿Es cierto que vio a
-los Caminantes Blancos?
+00:09:04,187 --> 00:09:06,088
+Fingers
+or your tongue?
 
 85
-00:14:06,661 --> 00:14:09,730
-Los Caminantes Blancos desaparecieron
-hace miles de años.
+00:09:06,122 --> 00:09:09,258
+If you got to keep one,
+which would it be?
 
 86
-00:14:09,637 --> 00:14:12,439
-¿Entonces estaba mintiendo?
+00:09:09,292 --> 00:09:11,961
+I-- I--
 
 87
-00:14:16,103 --> 00:14:18,904
-Un loco ve lo que ve.
+00:09:11,995 --> 00:09:14,230
+or I could just
+cut your throat.
 
 88
-00:14:43,494 --> 00:14:45,661
-¿Qué ha pasado?
+00:09:15,733 --> 00:09:18,067
+Every man needs hands,
+Your Grace.
 
 89
-00:14:47,270 --> 00:14:49,938
-¿Un puma?
+00:09:18,102 --> 00:09:19,669
+Good.
 
 90
-00:14:51,077 --> 00:14:53,079
-En estos bosques no hay pumas.
+00:09:19,703 --> 00:09:22,538
+- Tongue it is.
+- Your Grace, please.
 
 91
-00:15:37,096 --> 00:15:39,096
-¡Es un monstruo!
+00:09:22,573 --> 00:09:24,640
+I won't sing--
+Your Grace.
 
 92
-00:15:39,880 --> 00:15:42,614
-Es un "huargo".
+00:09:24,675 --> 00:09:26,809
+Ser Ilyn,
+who better than you
 
 93
-00:15:50,024 --> 00:15:52,757
-Una bestia dura y vieja.
+00:09:26,843 --> 00:09:28,945
+- to carry out the sentence?
+- I beg you!
 
 94
-00:15:54,023 --> 00:15:56,790
-No hay "huargos" al sur del muro.
+00:09:28,979 --> 00:09:30,480
+Please no.
 
 95
-00:15:56,710 --> 00:15:58,843
-Ahora hay cinco.
+00:09:32,283 --> 00:09:33,883
+<i>No!</i>
 
 96
-00:15:58,790 --> 00:16:01,458
-¿Quieres alzarlo?
+00:09:36,086 --> 00:09:39,021
+Your Grace, please.
+I beg you, I will never sing again!
 
 97
-00:16:05,381 --> 00:16:07,882
-¿Qué va a ser de ellos?
+00:09:39,056 --> 00:09:40,957
+- I'm done for the day.
+- <i>No-oooo!</i>
 
 98
-00:16:07,814 --> 00:16:09,614
-Su madre está muerta.
+00:09:40,991 --> 00:09:43,603
+I'll leave the rest
+of the matters to you, mother.
 
 99
-00:16:09,573 --> 00:16:11,208
-No pertenecen a estas tierras.
+00:09:46,932 --> 00:09:49,433
+Your Grace, please!
 
 100
-00:16:11,174 --> 00:16:13,107
-Lo mejor es darles una muerte rápida.
+00:09:56,976 --> 00:09:58,710
+You look quite nice.
+
+101
+00:09:58,745 --> 00:10:00,479
+Thank you, My Lord.
+
+102
+00:10:00,513 --> 00:10:02,981
+"Your Grace."
+I'm King now.
+
+103
+00:10:03,015 --> 00:10:06,418
+<i>Stop-ppp!</i>
+<i>No!</i>
+
+104
+00:10:06,452 --> 00:10:09,220
+Walk with me.
+I want to show you something.
+
+105
+00:10:13,659 --> 00:10:16,327
+Do as you're bid, child.
+
+106
+00:10:22,835 --> 00:10:25,603
+...And as soon as you've had
+your blood, I'll put a son in you.
+
+107
+00:10:25,637 --> 00:10:28,407
+Mother says that
+shouldn't be long.
+
+108
+00:10:32,078 --> 00:10:34,580
+No, please no!
+
+109
+00:10:34,614 --> 00:10:36,448
+This one's your father.
+
+110
+00:10:37,784 --> 00:10:39,685
+This one here.
+
+111
+00:10:39,719 --> 00:10:42,154
+Look at it and see
+what happens to traitors.
+
+112
+00:10:42,188 --> 00:10:46,191
+- You promised to be merciful.
+- I was.
+
+113
+00:10:46,226 --> 00:10:48,494
+I gave him
+a clean death.
+
+114
+00:10:49,762 --> 00:10:51,196
+Look at him.
+
+115
+00:10:51,230 --> 00:10:54,532
+Please let me go home.
+I won't do any treason, I swear.
+
+116
+00:10:54,566 --> 00:10:58,102
+Mother says I'm still to marry you.
+So you'll stay here
+
+117
+00:10:58,136 --> 00:11:00,805
+and obey.
+
+118
+00:11:00,839 --> 00:11:03,140
+Look at him!
+
+119
+00:11:11,651 --> 00:11:13,385
+<i>Well?</i>
+
+120
+00:11:13,419 --> 00:11:16,322
+How long
+do I have to look?
+
+121
+00:11:18,158 --> 00:11:20,560
+As long as it pleases me.
+
+122
+00:11:23,097 --> 00:11:24,698
+Do you want
+to see the rest?
+
+123
+00:11:24,732 --> 00:11:26,967
+If it please Your Grace.
+
+124
+00:11:27,001 --> 00:11:29,303
+That's your Septa there.
+
+125
+00:11:31,239 --> 00:11:32,606
+<i>I'll tell you what:</i>
+
+126
+00:11:32,640 --> 00:11:34,975
+I'm going to give you
+a present.
+
+127
+00:11:35,009 --> 00:11:38,779
+After I raise my armies
+and kill your traitor brother,
+
+128
+00:11:38,813 --> 00:11:41,281
+I'm going to give you
+his head as well.
+
+129
+00:11:41,316 --> 00:11:44,017
+Or maybe he'll
+give me yours.
 
