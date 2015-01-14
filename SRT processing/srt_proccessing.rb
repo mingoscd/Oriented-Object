@@ -1,6 +1,6 @@
+require 'pry'
+require 'date'
 class SrtProccess
-	require 'date'
-	require 'pry'
 	def initialize(file)
 		@file = file
 	end
@@ -28,11 +28,8 @@ class SrtProccess
 #this method creates a file with the words of the subtitles not included in the Unix dictionary
 #destination file defines the file that is going to write the result of the function 
 	def typos_in_file(destination_file)
-		@file_content = get_file_content
 
-		subtitles_object_list = get_subtitle_object(@file_content).map do |item|
-			Subtitle.new(item.split("\n"))
-		end
+		subtitles_object_list = get_subtitle_objects_in_file
 
 		lines = get_lines(subtitles_object_list)
 
@@ -54,12 +51,66 @@ class SrtProccess
 		IO.write(destination_file, content)
 	end
 
+#this method censores all the words provided in the file  until the time specified as parameter
+	def profanity_filter(time, profanity_filter)
+		censored_words = IO.read(profanity_filter).split("\n").each { |w| w.gsub!("\n","") }
+
+		subtitles_object_list = get_subtitle_objects_in_file
+
+		modified_subtitles = modify_subtitles(time, censored_words, subtitles_object_list)
+		
+		#print modified subtitles in a file
+		file_content = get_text_from_subtitles(modified_subtitles)
+		IO.write(@file, file_content)
+	end
+
+
+#auxiliar methods
+	def modify_subtitles(time, censored_words, subtitles_object_list)
+		modified_subtitles = subtitles_object_list.map do |subtitle|
+			if subtitle.time1[3..4].to_i < time.to_i
+				mod_sub = modify_subtitle_item_text(subtitle, censored_words)
+			else
+				mod_sub = subtitle
+			end
+		end
+		modified_subtitles
+	end
+
+	def modify_subtitle_item_text(subtitle, censored_words)
+		mod_sub = subtitle.text.map do |text|
+			censored_words.each do |word|
+				censor = word.gsub(/./,"*")
+				text.gsub!( word, censor )
+			end
+			subtitle
+		end
+		mod_sub.last
+	end
+
 	def get_file_content
 		IO.read(@file).gsub(/\r/,"")
 	end
 
-	def get_subtitle_object(subtitles_file)
-		subtitles_file.split("\n\n")
+	def get_subtitle_objects_in_file
+		@file_content = get_file_content
+		
+		subtitles_object_list = @file_content.split("\n\n").map do |item|
+			Subtitle.new(item.split("\n"))
+		end
+		subtitles_object_list
+	end
+
+	def get_text_from_subtitles(subtitles_object)
+		content = []
+		file_content = subtitles_object.map do |subtitle|
+			content = subtitle.index + "\n" + subtitle.time1 + " --> " + subtitle.time2 + "\n"
+			subtitle.text.map do |text| 
+				content << text + "\n" 
+			end
+			content
+		end
+		file_content.join("\n")
 	end
 
 	def get_lines(subtitles_list)
@@ -122,5 +173,11 @@ end
 #EXAMPLES OF THE CODE NECESARY TO RUN THE METHODS
 subtitles = SrtProccess.new("GOTshort.srt")
 
+#to run the time_shift method
 #subtitles.time_shift(500)
-subtitles.typos_in_file("potential_typos.txt")
+
+#to run the typos_in_file method
+#subtitles.typos_in_file("potential_typos.txt")
+
+#to run the profanity_filter method
+subtitles.profanity_filter(10, "censored_words.txt")
