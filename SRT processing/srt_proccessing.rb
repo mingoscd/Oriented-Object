@@ -31,9 +31,9 @@ class SrtProccess
 
 		subtitles_object_list = get_subtitle_objects_in_file
 
-		lines = get_lines(subtitles_object_list)
+		lines = subtitles_object_list.map{ |subtitle| subtitle.get_lines }
 
-		words = get_words(lines)
+		words = get_words(lines.flatten)
 
 		typos = word_not_in_dictionary(words)
 
@@ -44,9 +44,14 @@ class SrtProccess
 			typos_file_content.merge!(typos_object) {|k,l,r| [l,r].flatten.join(", ") }
 		end
 
+		#functionality to ignore words, per example names
+		ignored_words = IO.read("ignored_words.txt").split("\n")
+
 		content = ""
 		typos_file_content.each do |word|
-			content << word[0] + ": " + word[1] + "\n"
+			unless ignored_words.include? word[0]
+				content << word[0] + ": " + word[1] + "\n"
+			end
 		end
 		IO.write(destination_file, content)
 	end
@@ -113,14 +118,6 @@ class SrtProccess
 		file_content.join("\n")
 	end
 
-	def get_lines(subtitles_list)
-		lines = []
-		subtitles_list.map do |subtitle_item|
-			lines.concat(subtitle_item.text)
-		end
-		lines
-	end
-
 	def get_words(lines)
 		words = []
 		lines.map do |line|
@@ -161,12 +158,17 @@ end
 
 class Subtitle
 	attr_accessor :index, :time1, :time2, :text
+	
 	def initialize(array)
 		times = array[1].split(" --> ")
 		@index = array[0]
 		@time1 = times[0]
 		@time2 = times[1]
 		@text = array[2..array.length]
+	end
+
+	def get_lines
+		self.text
 	end
 end
 
@@ -177,7 +179,7 @@ subtitles = SrtProccess.new("GOTshort.srt")
 #subtitles.time_shift(500)
 
 #to run the typos_in_file method
-#subtitles.typos_in_file("potential_typos.txt")
+subtitles.typos_in_file("potential_typos.txt")
 
 #to run the profanity_filter method
-subtitles.profanity_filter(10, "censored_words.txt")
+#subtitles.profanity_filter(10, "censored_words.txt")
